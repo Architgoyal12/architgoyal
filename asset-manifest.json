@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/architgoyal/static/css/main.706bdd0c.css",
-    "main.js": "/architgoyal/static/js/main.42527fed.js",
-    "static/media/IMG3.jpg": "/architgoyal/static/media/IMG3.7290a8532ce97273b465.jpg",
-    "static/media/inotebook.jpg": "/architgoyal/static/media/inotebook.91f6c7d3bd9d9e117bfd.jpg",
-    "static/media/cv.pdf": "/architgoyal/static/media/cv.11017891eac4fa0b0711.pdf",
-    "static/media/about-me.png": "/architgoyal/static/media/about-me.8b5772bcdb7ada71a191.png",
-    "static/media/avatar1.png": "/architgoyal/static/media/avatar1.72b9734bf4e58dc4e464.png",
-    "static/media/avatar2.png": "/architgoyal/static/media/avatar2.72b9734bf4e58dc4e464.png",
-    "static/media/avatar3.png": "/architgoyal/static/media/avatar3.72b9734bf4e58dc4e464.png",
-    "static/media/avatar4.png": "/architgoyal/static/media/avatar4.72b9734bf4e58dc4e464.png",
-    "static/media/me.png": "/architgoyal/static/media/me.38da6333618bd1bd36a3.png",
-    "static/media/news.jpg": "/architgoyal/static/media/news.f2ea30404b056dfabe05.jpg",
-    "index.html": "/architgoyal/index.html",
-    "main.706bdd0c.css.map": "/architgoyal/static/css/main.706bdd0c.css.map",
-    "main.42527fed.js.map": "/architgoyal/static/js/main.42527fed.js.map"
+    "main.css": "/static/css/main.706bdd0c.css",
+    "main.js": "/static/js/main.fb954a10.js",
+    "static/media/IMG3.jpg": "/static/media/IMG3.7290a8532ce97273b465.jpg",
+    "static/media/inotebook.jpg": "/static/media/inotebook.91f6c7d3bd9d9e117bfd.jpg",
+    "static/media/cv.pdf": "/static/media/cv.11017891eac4fa0b0711.pdf",
+    "static/media/about-me.png": "/static/media/about-me.8b5772bcdb7ada71a191.png",
+    "static/media/avatar1.png": "/static/media/avatar1.72b9734bf4e58dc4e464.png",
+    "static/media/avatar2.png": "/static/media/avatar2.72b9734bf4e58dc4e464.png",
+    "static/media/avatar3.png": "/static/media/avatar3.72b9734bf4e58dc4e464.png",
+    "static/media/avatar4.png": "/static/media/avatar4.72b9734bf4e58dc4e464.png",
+    "static/media/me.png": "/static/media/me.38da6333618bd1bd36a3.png",
+    "static/media/news.jpg": "/static/media/news.f2ea30404b056dfabe05.jpg",
+    "index.html": "/index.html",
+    "main.706bdd0c.css.map": "/static/css/main.706bdd0c.css.map",
+    "main.fb954a10.js.map": "/static/js/main.fb954a10.js.map"
   },
   "entrypoints": [
     "static/css/main.706bdd0c.css",
-    "static/js/main.42527fed.js"
+    "static/js/main.fb954a10.js"
   ]
 }

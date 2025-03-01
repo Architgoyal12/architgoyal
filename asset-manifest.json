@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.706bdd0c.css",
-    "main.js": "/static/js/main.2c0e26e0.js",
+    "main.css": "/static/css/main.d0f436ac.css",
+    "main.js": "/static/js/main.4e71362a.js",
     "static/media/IMG3.jpg": "/static/media/IMG3.7290a8532ce97273b465.jpg",
+    "static/media/work.jpg": "/static/media/work.af7949ebaba7e21dc4b1.jpg",
     "static/media/inotebook.jpg": "/static/media/inotebook.91f6c7d3bd9d9e117bfd.jpg",
     "static/media/cv.pdf": "/static/media/cv.cbe2a2f11a0bd154df09.pdf",
     "static/media/about-me.png": "/static/media/about-me.8b5772bcdb7ada71a191.png",
@@ -12,12 +13,15 @@
     "static/media/avatar4.png": "/static/media/avatar4.72b9734bf4e58dc4e464.png",
     "static/media/me.png": "/static/media/me.38da6333618bd1bd36a3.png",
     "static/media/news.jpg": "/static/media/news.f2ea30404b056dfabe05.jpg",
+    "static/media/excelo.jpg": "/static/media/excelo.a5a0ec61a23482d29538.jpg",
+    "static/media/prof.jpg": "/static/media/prof.f6f90a67f4b1c245222d.jpg",
+    "static/media/motivation.jpg": "/static/media/motivation.b75e4cb45c5d95935614.jpg",
     "index.html": "/index.html",
-    "main.706bdd0c.css.map": "/static/css/main.706bdd0c.css.map",
-    "main.2c0e26e0.js.map": "/static/js/main.2c0e26e0.js.map"
+    "main.d0f436ac.css.map": "/static/css/main.d0f436ac.css.map",
+    "main.4e71362a.js.map": "/static/js/main.4e71362a.js.map"
   },
   "entrypoints": [
-    "static/css/main.706bdd0c.css",
-    "static/js/main.2c0e26e0.js"
+    "static/css/main.d0f436ac.css",
+    "static/js/main.4e71362a.js"
   ]
 }
